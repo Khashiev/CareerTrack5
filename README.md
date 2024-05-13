@@ -40,7 +40,7 @@ References:
 5. [The second chapter of Dale Carnegie's book, How to Win Friends and Influence People](materials/Как_завоевать_друзей.pdf)
 6. [Liability for personal data leakage](https://rt-solar.ru/products/solar_dozor/blog/2795/)
 7. [What is cybersecurity?](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
-8. [What is cybersecurity?](https://www.sap.com/cis/insights/what-is-cybersecurity.html)
+8. [What is cybersecurity?](https://www.sap.com/central-asia-caucasus/products/financial-management/what-is-cybersecurity.html)
 9. Movie "The Intern", 2015.
 
 ## Chapter II
@@ -185,9 +185,9 @@ Typical examples illustrating unintentional information leakage include:
 
 Learn more about cybersecurity
 
-1. [What is the threat of information leakage?](https://rt-solar.ru/products/solar_dozor/blog/2795/);
-2. [Cybersecurity](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security);
-3. [What is cybersecurity?](https://www.sap.com/cis/insights/what-is-cybersecurity.html).
+1. [What is the threat of information leakage?](https://rt-solar.ru/products/solar_dozor/blog/2795/)
+2. [Cybersecurity](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
+3. [What is cybersecurity?](https://www.sap.com/central-asia-caucasus/products/financial-management/what-is-cybersecurity.html)
 
 ## Chapter IV
 ## Exercise 00

@@ -41,7 +41,7 @@
 5. [Вторая глава книга Дейла Карнеги «Как завоевать друзей»](materials/Как_завоевать_друзей.pdf)  
 6. [Ответственность за утечку персональных данных](https://rt-solar.ru/products/solar_dozor/blog/2795/)  
 7. [Что такое кибербезопасность?](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)  
-8. [Что такое кибербезопасность?](https://www.sap.com/cis/insights/what-is-cybersecurity.html)  
+8. [Что такое кибербезопасность?](https://www.sap.com/central-asia-caucasus/products/financial-management/what-is-cybersecurity.html)  
 9. Фильм «Стажер», 2015. 
 
 
@@ -186,9 +186,9 @@ _Коко Шанель: «У вас не будет второго шанса п
 Многие крупные компании используют для удобства работы различные облачные сервисы, которые позволяют получить быстрый доступ к информации и хранить там большие объемы данных. Неправильная настройка прав доступа к файлам, ошибка сервера, передача ссылок по незащищенному каналу способствуют неконтролируемому доступу третьих лиц к этим данным.   
 
 Полезно изучить: 
-1. [Чем угрожает утечка информации?](https://rt-solar.ru/products/solar_dozor/blog/2795/);  
-2. [Кибербезопасность](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security);  
-3. [Что такое кибербезопасность?](https://www.sap.com/cis/insights/what-is-cybersecurity.html).     
+1. [Чем угрожает утечка информации?](https://rt-solar.ru/products/solar_dozor/blog/2795/)  
+2. [Кибербезопасность](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)  
+3. [Что такое кибербезопасность?](https://www.sap.com/central-asia-caucasus/products/financial-management/what-is-cybersecurity.html)     
 
 <h2 id="chapter-iv">Chapter IV</h2>  
 
